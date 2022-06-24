@@ -7,7 +7,7 @@ The papers of stock market prediction in recurrent neural network based models a
 5. 2017 [Stock Price Prediction via Discovering Multi-Frequency Trading Patterns Share on](https://dl.acm.org/doi/pdf/10.1145/3097983.3098117?casa_token=1xeKCQdvnRUAAAAA:syU4-10b5fucWviNPlIuoY6AoOvlJeNlF5jRpSBkSlV6kI4jFyTXIq29kiyeFc_uGYyyve6cIflcaUI)
 6. 2018 [Explainable text-driven neural network for stock prediction](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8691233)
 7. 2018 [Stock price prediction using attention-based multi-input lstm](http://proceedings.mlr.press/v95/li18c/li18c.pdf)
-8. 2018 [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://dl.acm.org/doi/pdf/10.1145/3159652.3159690)
+8. 2018 [Listening to Chaotic Whispers: A Deep Learning Framework for News-oriented Stock Trend Prediction](https://dl.acm.org/doi/abs/10.1145/3159652.3159690?casa_token=bCnXx_8C_20AAAAA:SqwPG7ForDQx2-pPBKItS9DyRmF6xcUjgUaPtThAHE3KLhZk5lZrwHCd9eCG0ZovHw7vgYTb_ErovJ0)
 9. 2019 [Multi-task Recurrent Neural Networks and Higher-order Markov Random Fields for Stock Price Movement Prediction Multi-task   RNN and Higer-order MRFs for Stock Price Classification](https://dl.acm.org/doi/pdf/10.1145/3292500.3330983)
 10. 2019 [A Novel Approach to Short-Term Stock Price Movement Prediction using Transfer Learning](https://www.mdpi.com/2076-3417/9/22/4745/htm)
 11. 2019 [A Convolutional LSTM Based Variational Sequence-to-Sequence Modelwith Attention for Predicting Trends of Financial Markets](https://www.ijcai.org/proceedings/2019/0514.pdf)
