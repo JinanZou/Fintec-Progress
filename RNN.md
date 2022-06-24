@@ -15,6 +15,6 @@ The papers of stock market prediction in recurrent neural network based models a
 13. 2019 [News2vec: News Network Embedding with Subnode Information](https://aclanthology.org/D19-1490.pdf)
 14. 2019 [Combining Enterprise Knowledge Graph and News Sentiment Analysis for Stock Price Volatility Prediction](https://aisel.aisnet.org/cgi/viewcontent.cgi?article=1142&context=hicss-52)
 15. 2020 [Market volatility prediction based on long- and short-term memory retrieval architectures](https://dl.acm.org/doi/pdf/10.1145/3383455.3422545)
-16. 2020 [Utilization of Deep Learning to Mine Insights from Earning Calls for Stock Price Movement Predictions](https://dl.acm.org/doi/pdf/10.1145/3383455.3422524?casa_token=jM-rW8lcT-UAAAAA:w_7GszWcWqNPyiCwukxDETVecMbX0DZfLzXkuLPNUDnUzsFjBpq9smEdEa_Q9E_hhfh-Fqb2irbT4fo)
+16. 2020 [Utilization of Deep Learning to Mine Insights from Earning Calls for Stock Price Movement Predictions](https://dl.acm.org/doi/abs/10.1145/3383455.3422524?casa_token=I9B0D-jxxMAAAAAA:xF2TznkDhmC3ByNbQtmZg6QM5q6Z-6asyU1ux4TF4eXCxAhZXzo_NKuinANUnWPuWdNBWF63RZSDgVM)
 17. 2020 [Incorporating fine-grained events in stock movement prediction](https://arxiv.org/pdf/1910.05078.pdf)
 18. 2020 [Study on the prediction of stock price based on the associated network model of LSTM](https://link.springer.com/content/pdf/10.1007/s13042-019-01041-1.pdf)
