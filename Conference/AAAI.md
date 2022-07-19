@@ -1,5 +1,4 @@
-Year  |Title  |Data Set  |Data Time Span |Models|
+Year  |Title  |Data Set     |Target         |Models|
 ------|-------|-------------|---------------|------|
-2022  |XX     |   x        rtrt
-|               |      |
-
+2022  |XX     |             |               |      |
+2013 |[Exploiting Topic based Twitter Sentiment for Stock Prediction](https://aclanthology.org/P13-2005.pdf) |S&P100 daily closing index,Twitter (11.2012 - 02.2013) |S&P 100 daily closing index |topic based sentiment analysis Dirichlet Process Mixture (DPM)
