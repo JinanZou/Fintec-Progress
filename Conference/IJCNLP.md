@@ -1,4 +1,2 @@
-Year  |Title  |Data Source  |Data Time Span |Models|
-------|-------|-------------|---------------|------|
-2022  |XX     |             |               |      |
-
+Year    |Title  |Data Set|Target |Models|Evaluation|
+|:------|:------|:-------|:------|:-----|:---------|
