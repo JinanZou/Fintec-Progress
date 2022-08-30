@@ -1,3 +1,3 @@
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
-2021 |Transformer |[Trade the event: Corporate events detection for news-based event-driven trading](https://arxiv.org/pdf/2105.12825.pdf) |Stock Return |minute-level stock price |EDT dataset, Financial articles, S&P 500 index, ETF |2020 - 2021 |Return
+2017 |RNN |[Stock Market’s Price Movement Prediction With LSTM Neural Networks](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=7966019|casa\_token=zfjHmuzfYxoAAAAA:e3SINWKQNwdlpvDeO2X8VUxyzYQs9\_A9oVp\_BNRbbkHPxeXe3zzPZ7hSbxP5rhHH0vm6TYk5Qw) |Price Movement |open, close, high, low and volume |Brazilian stock exchange |2014 |Acc, Pre, Rec, F1 
