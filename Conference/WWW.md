@@ -1,2 +1,4 @@
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
+2020 |Transformer |[HTML: Hierarchical Transformer-based Multi-task Learning for Volatility Prediction](https://dl.acm.org/doi/pdf/10.1145/3366423.3380128?casa\_token=igdPwflC15EAAAAA:2S4q0UDR6RBwqvJdf1frR6Unhi1Wg99oGnL4xnduc7SG2OOxw3rTUN-OYL5QAM8s6RsfuzcomeIzCHM) |Volatility prediction |closing prices multi-modal utterance features: text features, audio features, and video features. |S&P 500 Earning Conference Calls dataset |2017 |MSE  
+2019 |CNN |[Knowledge-driven stock trend prediction and explanation via temporal convolutional network]() |Price Movement |daily DJIA, text |DJIA, News from Reddit, Knowledge graph from Freebase and Wikidata |2008 - 2016 |ACC, F1  
