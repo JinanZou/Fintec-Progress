@@ -1,7 +1,7 @@
-Year    |Title  |Data Set|Target |Models|Evaluation|
-|:------|:------|:-------|:------|:-----|:---------|
+Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
+|:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
 2021 |Transformer |[Semantics-Preserved Data Augmentation for Aspect-Based Sentiment Analysis](https://aclanthology.org/2021.emnlp-main.362.pdf) |Aspect-sentiment analysis |word in a textual sentence |Lap14,Rest14, Rest15, Rest16, sentiment classification (SC) benchmark datasets: Stanford Sentiment Treebank (SST-2) (and Movie Review (MR) |2014 - 2016 |classification correct, Return Risk, sentence ACC
 2020 |RNN |[Incorporating fine-grained events in stock movement prediction](https://arxiv.org/pdf/1910.05078.pdf) |Price Movement |1. minute-level stock data with First/last/highest/lowest price 2. trade volume 3. volumne-weighted average trade price |finance news related to TOPIX top 1000 stocks |2011 - 2017 |acc, MCC for event stock prediction, F1 for event extraction
 2020 |Graph |[Deep Attentive Learning for Stock Movement Prediction From Social Media Text and Company Correlations](https://aclanthology.org/2020.emnlp-main.676.pdf) |Price Movement |closing price, tweet, inter stock correlations |S&P 500, NYSE，NASDAQ, Yahoo Finance. |2014 - 2016 |MCC+ Cumulative Profit and Sharpe Ratio (Sharpe, 1994) + cumulative profit (Krauss, 2018) + Sharpe Ratio (a measure of the return of a portfolio compared to its risk)
 2019 |RNN |[News2vec: News Network Embedding with Subnode Information](https://aclanthology.org/D19-1490.pdf) |Price Movement |month, week, sentiment, words count and day |Sohu, SSE |2009-2016 |Acc (Acc) and MCC (MCC)
-2014 |Other |[Exploiting Social Relations and Sentiment for Stock Prediction]() |Stock Price |daily close values, sentiment time-series:Node topic,Neighbor node/edge topics, Pearson's correlation coefficient |Twitter | |Acc 
+2014 |Other |[Exploiting Social Relations and Sentiment for Stock Prediction]() |Stock Price |daily close values, sentiment time-series:Node topic,Neighbor node/edge topics, Pearson's correlation coefficient |Twitter | |Acc
