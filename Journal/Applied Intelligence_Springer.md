@@ -1,4 +1,3 @@
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
-2021 |CNN |[A CNN-BiLSTM-AM method for stock price prediction](https://link.springer.com/content/pdf/10.1007/s00521-020-05532-z.pdf) |Stock Price |Closing data |SCI |1991 - 2020 |MAE, RMSE, R^2
-2021 |CNN |[A graph-based CNN-LSTM stock price prediction algorithm with leading indicators](https://link.springer.com/content/pdf/10.1007/s00530-021-00758-w.pdf) |Stock Price |Stock price of USA and Taiwan |Stock price of USA and Taiwan | |Acc
+2021 |RL |[ multi-layer and multi-ensemble stock trader using deep learning and deep reinforcement learning](https://link.springer.com/content/pdf/10.1007/s10489-020-01839-5.pdf) |Policy |Time Open High Low Close |S&P 500 future market, J.P. Morgan, Microsoft stocks |2012 - 2019 |Accuracy Cover. MDD Return RoMaD
