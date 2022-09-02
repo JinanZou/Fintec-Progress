@@ -1,3 +1,3 @@
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
-2021 |Transformer |[Trade the event: Corporate events detection for news-based event-driven trading](https://arxiv.org/pdf/2105.12825.pdf) |Stock Return |minute-level stock price |EDT dataset, Financial articles, S&P 500 index, ETF |2020 - 2021 |Return
+2015 |RNN |[Recurrent neural network and a hybrid model for prediction of stock returns](https://www.sciencedirect.com/science/article/pii/S0957417414007684?fr=RR-2|ref=pdf\_download|rr=7425b916ba98df24) |Stock Return |daily closing price daily returns |NSE |2007-2010 |MSE, MAE 
