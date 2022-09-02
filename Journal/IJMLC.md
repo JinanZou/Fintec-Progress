@@ -1,4 +1,4 @@
-International Symposium on Computational Intelligence and Design
+International Journal Of Machine Learning And Cybernetics.md
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
-2018 |RL |[Learning to trade with deep actor critic methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695542) |Policy | open, high, low and close |CSI 300 stocks |2005 - 2018 |total profits (TP), sharpe ratios (SR) and position changes (PC)
+2020 |RNN |[Study on the prediction of stock price based on the associated network model of LSTM](https://link.springer.com/content/pdf/10.1007/s13042-019-01041-1.pdf) |Stock Price |seven technical parameters: Open price, Close price, Lowest price, Highest price, Volumes, Money, Change |1.SSE 2. PetroChina on SSE 3. ZTE on SZI. | |total loss
