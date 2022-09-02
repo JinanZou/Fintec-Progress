@@ -1,4 +1,4 @@
-International Symposium on Computational Intelligence and Design
+ International Conference on Acoustics, Speech, | Signal Processing (ICASSP)
 Year|Method|Title|Target|Feature|Data Set|Time Span|Evaluation|
 |:--|:---- |:----|:-----|:------|:-------|:--------|:---------|
-2018 |RL |[Learning to trade with deep actor critic methods](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=8695542) |Policy | open, high, low and close |CSI 300 stocks |2005 - 2018 |total profits (TP), sharpe ratios (SR) and position changes (PC)
+2021 |Transformer |[Stock movement prediction and portfolio management via multimodal learning with transformer](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=9414893) |Price Movement |Stock:open, high, close, low, volume Financial news |S&P 500 index, 20 individual companies |2006 - 2013 |Accuracy, Sharpe Ratio, Portfolio Value, MCC
