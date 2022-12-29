@@ -10,9 +10,10 @@ The papers are organised in categories of 'Conference' and 'Journal'.
 
 ## Latest Papers (2022)
 
-|Conference/Journal|Task Target|Papers
-|:---|:---|:---|
-Conference |Stock Movement |[Transformer-based attention network for stock movement prediction](https://www.sciencedirect.com/science/article/pii/S0957417422006170?casa\_token=Ct872YvmM0QAAAAA:khm0m1DY\_8LC\_HeRM3RPp\_9hY4wFtn1eY3LXMkjzDaaIeteRMW2bl2S2s-MybjDoUpK1RMCUNoA)
+Welcome to check and cite our latest paper: 
+ock Market Prediction via Deep Learning Techniques: A Survey
+https://arxiv.org/pdf/2212.12717v1.pdf
+
 
 
 ## Open-sourse Datasets
